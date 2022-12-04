@@ -19,20 +19,19 @@ Deadline: Wednesday, December 14, 2022 by 11:59 p.m.
 1. Use the class provided material.
 2. Cite your work properly.
 3. Ensure to have the paper turned in on time.
+----------------------------------------
 
----------------------------------------
 
 ### TOPIC OVERVIEW
--------------------------------------------
 Write your paper on one of the following topics. 
 These topic description is intended to prompt your thinking about the central philosophical claims, and organize your thoughts around a concrete case. You are not obligated to cover ever single element in the topic description, but your paper should include: 
 1. a summary of the relevant philosophical analysis; 
 2. summary of the relevant features of the case; and 
 3. judgment by you (supported by reasons) about the fit between the analysis and the case. 
 Note: The judgment in part (c) may be accomplished simply by putting the philosopher in conversation with the claim made by one of the parties in the newspaper story; or it may involve an assessment of the strengths and weaknesses of the argument or prospects and challenges; or it may involve you putting forth your own opinion (supported by reasons).
-
->TOPIC: How to Address Information Overload: Focus on Quality not Quantity of Online Relationships
 ------------------------------------------------------
+
+###TOPIC: How to Address Information Overload: Focus on Quality not Quantity of Online Relationships
 Relevant Readings:
 1. Ian Bogost, “People aren’t meant to Talk This Much” Download “People aren’t meant to Talk This Much”(The Atlantic)
 2. David M. Levy, “Information Overload”Download “Information Overload”
