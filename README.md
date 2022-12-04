@@ -31,7 +31,7 @@ These topic description is intended to prompt your thinking about the central ph
 Note: The judgment in part (c) may be accomplished simply by putting the philosopher in conversation with the claim made by one of the parties in the newspaper story; or it may involve an assessment of the strengths and weaknesses of the argument or prospects and challenges; or it may involve you putting forth your own opinion (supported by reasons).
 ------------------------------------------------------
 
-###TOPIC: How to Address Information Overload: Focus on Quality not Quantity of Online Relationships
+### TOPIC: How to Address Information Overload: Focus on Quality not Quantity of Online Relationships
 Relevant Readings:
 1. Ian Bogost, “People aren’t meant to Talk This Much” Download “People aren’t meant to Talk This Much”(The Atlantic)
 2. David M. Levy, “Information Overload”Download “Information Overload”
