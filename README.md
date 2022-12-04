@@ -17,7 +17,9 @@ Deadline: Wednesday, December 14, 2022 by 11:59 p.m.
 ### Outside Research and Plagiarism: 
 
 -Use the class provided material.
+
 -Cite your work properly.
+
 -Ensure to have the paper turned in on time.
 
 ---------------------------------------
